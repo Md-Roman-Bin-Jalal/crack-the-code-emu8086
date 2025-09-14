@@ -1,0 +1,11 @@
+# Ignore emu8086 and Windows-specific files
+*.exe
+*.obj
+*.bin
+*.lst
+*.bak
+*.tmp
+*.log
+~*
+.DS_Store
+Thumbs.db
